@@ -110,8 +110,11 @@
 }
 
 @media only screen and (min-width: 768px) {
-  .mob-menu {
+  .backdrop {
     max-width: 351px;
+  }
+
+  .mob-menu {
     position: absolute;
     right: 0;
   }
